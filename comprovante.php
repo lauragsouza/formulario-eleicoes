@@ -8,7 +8,7 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Comprovante Final</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -16,7 +16,7 @@ session_start();
 <div class="container">
     <div class="card comprovante">
 
-        <h1>♡ Comprovante ♡</h1>
+        <h1>Comprovante</h1>
 
         <p class="sucesso">
             Seus votos foram registrados!
